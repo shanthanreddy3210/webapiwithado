@@ -15,5 +15,6 @@ namespace TodoApi.Models
         public string? Colony { get; set; }
         public string? HouseAddress { get; set; }
         public string? PostalCode { get; set; }
+
     }
 }
